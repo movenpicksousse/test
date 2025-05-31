@@ -1,5 +1,3 @@
-// ✅ Script.js corrigé et fonctionnel
-// Tous les bugs d'affichage des graphiques et de mise à jour sont résolus
 
 let kpiChart = null;
 let forecastChart = null;
@@ -173,5 +171,3 @@ function updateCharts(adr, revpar, occupancy, rn, revenue) {
     }
   });
 }
-
-// Les fonctions updateCurrentData, updateRecommendations, openModal, closeModal, exportPDF et Excel restent inchangées.
